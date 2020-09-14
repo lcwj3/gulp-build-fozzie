@@ -68,7 +68,7 @@
     "gulp-tap": "^1.0.1",
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
-    "handlebars-helpers": "^0.9.6",
+    "handlebars-helpers": "^0.10.0",
     "helper-markdown": "^1.0.0",
     "helper-md": "^0.2.2",
     "jest-cli": "^20.0.0",
