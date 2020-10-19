@@ -45,7 +45,7 @@
     "eyeglass": "^1.2.1",
     "filesizegzip": "^2.0.0",
     "glob": "^7.1.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-cached": "^1.1.1",
     "gulp-changed": "^3.1.0",
     "gulp-debug": "^3.1.0",
